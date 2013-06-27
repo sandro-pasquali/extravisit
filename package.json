@@ -1,0 +1,23 @@
+{
+	"author": "sandro pasquali <spasquali@gmail.com>",
+	"name": "extravisit",
+	"description": "NodeJS implementation of Vows and Travis for Continuous Integration",
+	"version": "0.0.1",
+	"homepage": "",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"main": "./lib/MathLib.js",
+	"scripts": {
+		"test": "vows --spec"
+	},
+	"engines": {
+		"node": ">= 0.10"
+	},
+	"dependencies": {
+		"vows": "0.7.x"
+	},
+	"readme" : "HI"
+}
+
